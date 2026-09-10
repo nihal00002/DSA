@@ -1,16 +1,13 @@
 class Solution:
     def rearrangeArray(self, nums: List[int]) -> List[int]:
-        var1 = []
-        var2 = []
-        result = []
-        for ele in nums:
-            if ele > 0:
-                var1.append(ele)
+        arr = [0]*len(nums)
+        p = 0
+        n = 1
+        for i in range(len(nums)):
+            if nums[i] > 0:
+                arr[p]=nums[i]
+                p += 2
             else:
-                var2.append(ele)
-        count = 0
-        while count < int(len(nums)/2):
-            result.append(var1[count])
-            result.append(var2[count])
-            count +=1
-        return result
+                arr[n] = nums[i]
+                n +=2
+        return arr
