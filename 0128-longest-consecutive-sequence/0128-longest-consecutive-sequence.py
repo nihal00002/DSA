@@ -1,16 +1,25 @@
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
-        nums.sort()
-        count = 0
-        last_smaller = float("-inf")
-        longest = 0
-        for i in range(len(nums)):
-            num = nums[i]
-            if num - 1 == last_smaller:
-                count += 1
-                last_smaller = num
-            elif num != last_smaller:
-                count = 1
-                last_smaller = num
-            longest = max(longest,count)
-        return longest
+        nums = set(nums)
+        
+        seq = 0
+
+        while nums:
+            n = nums.pop()
+            current = n
+            this_seq = 0
+            while current - 1 in nums:
+                current -= 1
+                this_seq += 1
+                nums.remove(current)
+
+            current = n 
+            while current + 1 in nums:
+                current += 1
+                this_seq += 1 
+                nums.remove(current)
+
+            seq = max(seq, this_seq + 1)
+        
+
+        return seq
