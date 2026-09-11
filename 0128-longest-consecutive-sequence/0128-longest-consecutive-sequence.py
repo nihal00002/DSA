@@ -1,6 +1,8 @@
 class Solution:
     def longestConsecutive(self, nums):
-        num_set = set(nums)
+        num_set = set()
+        for i in nums:
+            num_set.add(i)
         longest = 0
 
         for num in num_set:
