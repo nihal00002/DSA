@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nihal00002/DSA/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/nihal00002/DSA/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/nihal00002/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nihal00002/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/nihal00002/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/nihal00002/DSA/tree/master/0268-missing-number) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nihal00002/DSA/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/nihal00002/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/nihal00002/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/nihal00002/DSA/tree/master/0268-missing-number) |
 ## Math
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nihal00002/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/nihal00002/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
