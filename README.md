@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/nihal00002/DSA/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/nihal00002/DSA/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/nihal00002/DSA/tree/master/0836-rectangle-overlap) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/nihal00002/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nihal00002/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nihal00002/DSA/tree/master/0073-set-matrix-zeroes) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/nihal00002/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
