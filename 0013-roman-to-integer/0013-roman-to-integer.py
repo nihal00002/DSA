@@ -4,9 +4,9 @@ class Solution:
         result = 0
         for i in range(len(s)-1):
             if latter[s[i]] < latter[s[i+1]]:
-                result +=  int(latter[s[i]]) * -1
+                result -= latter[s[i]]
             else:
-                result += int(latter[s[i]])
+                result += latter[s[i]]
         result += latter[s[-1]]
         return result 
             
