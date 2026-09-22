@@ -9,15 +9,14 @@ class Solution:
         #code here
         fast = head
         slow = head
-        previous = None
         while fast is not None and fast.next != None:
             slow = slow.next
             fast = fast.next.next
             if fast == slow:
                 count = 1
-                slow = slow.next
-                while slow != fast:
-                    slow = slow.next
+                fast = fast.next
+                while fast != slow:
+                    fast = fast.next
                     count += 1
                 return count
         return 0
