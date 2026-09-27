@@ -9,19 +9,19 @@ class Node:
 
 class Solution:
     def givenSumPairs(self, head, target):
-        result = []
         # code here
-        left = head 
-        right = head
-        while right.next != None:
-            right = right.next 
-        while left.data < right.data and left != None and right.prev != None:
-            if left.data + right.data == target:
-                result.append([left.data,right.data])
-                left = left.next
-                right = right.prev
-            if left.data + right.data >target:
-                right = right.prev
-            if left.data + right.data< target:
-                left = left.next
+        result = []
+        low = head
+        high = head
+        while high.next != None:
+            high = high.next 
+        while high != None and low.data < high.data and low != None:
+            if high.data + low.data == target:
+                result.append([low.data, high.data])
+                low = low.next
+                high = high.prev
+            if high.data + low.data > target:
+                high = high.prev
+            if high.data + low.data < target:
+                low = low.next
         return result
