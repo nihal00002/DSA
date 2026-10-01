@@ -4,12 +4,14 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[List[int]]
         """
-        number_of_subset = 1<<len(nums)
         result = []
-        for i in range(number_of_subset):
-            lst = []
-            for j in range(len(nums)):
-                if i & (1<<j) != 0:
-                    lst.append(nums[j])
-            result.append(lst)
-        return result
+        def function(index, subset):
+            if index >= len(nums):
+                result.append(subset[:])
+                return 
+            subset.append(nums[index])
+            function(index + 1, subset)
+            subset.pop()
+            function(index + 1, subset)
+        function(0,[])
+        return result 
