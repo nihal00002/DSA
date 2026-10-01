@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/nihal00002/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nihal00002/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nihal00002/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/nihal00002/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nihal00002/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nihal00002/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/nihal00002/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/nihal00002/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/nihal00002/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/nihal00002/DSA/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/nihal00002/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nihal00002/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nihal00002/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/nihal00002/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
