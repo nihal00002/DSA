@@ -5,13 +5,13 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         result = []
-        def function(index, subset):
+        def function(index,subset):
             if index >= len(nums):
                 result.append(subset[:])
                 return 
             subset.append(nums[index])
             function(index + 1, subset)
             subset.pop()
-            function(index + 1, subset)
+            function(index + 1,subset)
         function(0,[])
-        return result 
+        return result
