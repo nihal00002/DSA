@@ -16,6 +16,8 @@ class Solution(object):
             for i in range(index,len(candidates)):
                 if i > index and candidates[i] == candidates[i-1]:
                     continue
+                if candidates[i]> total:
+                    break
                 subset.append(candidates[i])
                 sum = total - candidates[i]
                 function(i+1,sum,subset)
