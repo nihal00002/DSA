@@ -5,23 +5,34 @@ class Solution(object):
         :type n: int
         :rtype: List[List[int]]
         """
-        nums = [i for i in range(1,10)]
         result = []
+
         def solve(index,total,subset):
+
             if len(subset) == k and total == n:
+
                 result.append(subset[:])
+
                 return 
-            if index >= len(nums):
-                return 
-            if total > n:
-                return 
-            subset.append(nums[index])
-            total += nums[index]
-            solve(index + 1, total, subset)
-            e = subset.pop()
-            total -= e 
-            solve(index + 1,total,subset)
+
+            if len(subset) > k or total > n:
+
+                return
+
+            for i in range(index,10):
+
+                if total + i > n:
+
+                    break
+
+                subset.append(i)
+
+                solve(i+1,total + i,subset)
+
+                subset.pop()
+
             return result
-        return solve(0,0,[])
+            
+        return solve(1,0,[])
 
             
