@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/nihal00002/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/nihal00002/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nihal00002/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0216-combination-sum-iii](https://github.com/nihal00002/DSA/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/nihal00002/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nihal00002/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/nihal00002/DSA/tree/master/0485-max-consecutive-ones) |
@@ -190,4 +191,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/nihal00002/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/nihal00002/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nihal00002/DSA/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/nihal00002/DSA/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
