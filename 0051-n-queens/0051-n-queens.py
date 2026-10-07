@@ -19,7 +19,7 @@ class Solution(object):
                 lowerD[row + col] = 0
                 leftQueen[row] = 0
                 upperD[n - 1 + col - row] = 0
-                
+
         return result
 
     def solveNQueens(self, n):
