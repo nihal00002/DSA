@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nihal00002/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nihal00002/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/nihal00002/DSA/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/nihal00002/DSA/tree/master/0503-next-greater-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nihal00002/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nihal00002/DSA/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/nihal00002/DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/nihal00002/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0503-next-greater-element-ii](https://github.com/nihal00002/DSA/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/nihal00002/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nihal00002/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/nihal00002/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/nihal00002/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
