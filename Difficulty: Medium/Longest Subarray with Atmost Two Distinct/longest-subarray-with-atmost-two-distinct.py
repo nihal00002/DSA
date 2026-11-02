@@ -1,8 +1,8 @@
 class Solution:
     def totalElements(self, arr):
         # Code here
+        maxi = right = left = 0
         my_dict = {}
-        right = left = maxi = 0
         while right < len(arr):
             my_dict[arr[right]] = my_dict.get(arr[right],0) + 1
             if len(my_dict) > 2:
@@ -11,6 +11,6 @@ class Solution:
                     del my_dict[arr[left]]
                 left += 1
             if len(my_dict) <= 2:
-                maxi = max(maxi, right-left+1)
+                maxi = max(maxi, right - left + 1)
             right += 1
         return maxi
