@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/nihal00002/DSA/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/nihal00002/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nihal00002/DSA/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/nihal00002/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/nihal00002/DSA/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/nihal00002/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/nihal00002/DSA/tree/master/0735-asteroid-collision) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/nihal00002/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/nihal00002/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/nihal00002/DSA/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/nihal00002/DSA/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/nihal00002/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nihal00002/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nihal00002/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nihal00002/DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/nihal00002/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/nihal00002/DSA/tree/master/0455-assign-cookies) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/nihal00002/DSA/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/nihal00002/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -240,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/nihal00002/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nihal00002/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/nihal00002/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
