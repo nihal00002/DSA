@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/nihal00002/DSA/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/nihal00002/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/nihal00002/DSA/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/nihal00002/DSA/tree/master/0860-lemonade-change) |
 | [1004-max-consecutive-ones-iii](https://github.com/nihal00002/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nihal00002/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nihal00002/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/nihal00002/DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/nihal00002/DSA/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/nihal00002/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
