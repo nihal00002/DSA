@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/nihal00002/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/nihal00002/DSA/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/nihal00002/DSA/tree/master/0503-next-greater-element-ii) |
+| [0704-binary-search](https://github.com/nihal00002/DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/nihal00002/DSA/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/nihal00002/DSA/tree/master/0860-lemonade-change) |
 | [1004-max-consecutive-ones-iii](https://github.com/nihal00002/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nihal00002/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nihal00002/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/nihal00002/DSA/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/nihal00002/DSA/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/nihal00002/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
